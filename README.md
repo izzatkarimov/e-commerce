@@ -8,7 +8,7 @@ This is a simple E-Commerce Website I built following a tutorial made by Dennis 
 
 
 Home Page:
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drive.google.com/file/d/1fsTeHIaSUybWUH5rKszRSvbzR0KV-2Lm/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1fsTeHIaSUybWUH5rKszRSvbzR0KV-2Lm/view?usp=sharing)
 
 Cart Page:
 
