@@ -1,8 +1,18 @@
 
 # E-Commerce Website
 
-This is a simple E-Commerce Website I built following a tutorial made by Dennis Ivy.
+## Table of Contents
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Screenshots](#screenshots)
+
+## Installation
+
+## Usage
+
+### API Endpoints
 
 ## Screenshots
 
