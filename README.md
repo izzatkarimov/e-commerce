@@ -4,7 +4,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Screenshots](#screenshots)
 
 ## Installation
@@ -36,17 +35,12 @@ To set up the e-commerce website, follow these steps:
      source env/bin/activate
      ```
 
-5. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Run database migrations:
+5. Run database migrations:
    ```bash
    python manage.py migrate
    ```
 
-7. Start the development server:
+6. Start the development server:
    ```bash
    python manage.py runserver
    ```
@@ -54,12 +48,6 @@ To set up the e-commerce website, follow these steps:
 ## Usage
 
 Once the server is running, you can access the website at `http://127.0.0.1:8000/`. You can browse products, add them to your cart, and proceed to checkout.
-
-### API Endpoints
-
-- **GET /api/products/**: Retrieve a list of all products.
-- **POST /api/update_item/**: Update the quantity of an item in the cart.
-- **POST /api/process_order/**: Process the order and handle payment.
 
 ## Screenshots
 
